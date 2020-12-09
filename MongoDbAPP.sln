@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbAPP", "MongoDbAPP\MongoDbAPP.csproj", "{EC377E34-CF04-4DF6-BF9F-BA7C5CC30FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC377E34-CF04-4DF6-BF9F-BA7C5CC30FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC377E34-CF04-4DF6-BF9F-BA7C5CC30FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC377E34-CF04-4DF6-BF9F-BA7C5CC30FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC377E34-CF04-4DF6-BF9F-BA7C5CC30FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B04D26E-A711-46C1-8ECB-4F159799AC7D}
+	EndGlobalSection
+EndGlobal
